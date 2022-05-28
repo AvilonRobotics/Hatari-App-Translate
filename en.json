@@ -6,5 +6,7 @@
     "ChangeRoom.LocationName.Placeholder": "Enter Location Name",
     "ChangeRoom.Recommended": "Recommended",
     "ChangeRoom.YourLocation": "Your Location",
-    "ChangeRoom.Save": "Save"
+    "ChangeRoom.Save": "Save",
+    "Warranty.Title": "Warranty",
+    "Warranty.Button": "Back"
 }
