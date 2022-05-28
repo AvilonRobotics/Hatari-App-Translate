@@ -1,6 +1,12 @@
 {
     "DeviceControl.Settings.Location": "สถานที่",
     "DeviceControl.Settings.UserManual": "คู่มือการใช้งาน",
+    "ChangeRoom.Title": "เปลี่ยนสถานที่",
+    "ChangeRoom.LocationName.Title": "เปลี่ยนสถานที่",
+    "ChangeRoom.LocationName.Placeholder": "ชื่อสถานที่",
+    "ChangeRoom.Recommended": "แนะนำ",
+    "ChangeRoom.YourLocation": "สถานที่ของคุณ",
+    "ChangeRoom.Save": "ตกลง",
 
     "Sign In": "ลงชื่อเข้าใช้",
     "Sign Up": "ลงทะเบียน",

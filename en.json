@@ -1,5 +1,10 @@
 {
     "DeviceControl.Settings.Location": "Location",
     "DeviceControl.Settings.UserManual": "User Manual",
-    "ChangeRoom.Title": "CHANGE LOCATION"
+    "ChangeRoom.Title": "CHANGE LOCATION",
+    "ChangeRoom.LocationName.Title": "Location Name",
+    "ChangeRoom.LocationName.Placeholder": "Enter Location Name",
+    "ChangeRoom.Recommended": "Recommended",
+    "ChangeRoom.YourLocation": "Your Location",
+    "ChangeRoom.Save": "Save"
 }
