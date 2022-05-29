@@ -15,9 +15,14 @@
     "AssignRoom.Recommended": "แนะนำ",
     "AssignRoom.YourLocation": "สถานที่ของคุณ",
     "AssignRoom.Save": "ตกลง",
-    
+
     "Warranty.Title": "การรับประกัน",
     "Warranty.Button": "ตกลง",
+
+    "PairSuccess.Success.Description": "เพิ่มอุปกรณ์สำเร็จ",
+    "PairSuccess.Fail.Description": "ไม่สามารถเพิ่มอุปกรณ์ได้, กรุณาลองใหม่ภายหลัง",
+
+    "RegisterWarranty.Title": "ลงทะเบียนการรับประกัน",
 
     "Sign In": "ลงชื่อเข้าใช้",
     "Sign Up": "ลงทะเบียน",
@@ -75,6 +80,7 @@
     "Checking for wifi access point...": "กำลังค้นหา wifi access point",
     "Connection Tips": "แนะนำ",
     "Turn on Wi-Fi on your phone\n and connect it to your access point.": "เปิด Wi-Fi และเชื่อมต่อกับ access point ท่ีต้องการ",
+    "Turn on on Bluetooth to connect Car Air Purifier": "เปิดบลูทูธ",
     "Plug power supply cord to power outlet": "เปิดอุปกรณ์ของฮาตาริ",
     "Confirm": "ตกลง",
     "Next": "ถัดไป",

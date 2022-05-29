@@ -1,7 +1,7 @@
 {
     "DeviceControl.Settings.Location": "Location",
     "DeviceControl.Settings.UserManual": "User Manual",
-    
+
     "ChangeRoom.Title": "CHANGE LOCATION",
     "ChangeRoom.LocationName.Title": "Location Name",
     "ChangeRoom.LocationName.Placeholder": "Enter Location Name",
@@ -17,5 +17,10 @@
     "AssignRoom.Save": "Save",
 
     "Warranty.Title": "Warranty",
-    "Warranty.Button": "Back"
+    "Warranty.Button": "Back",
+
+    "PairSuccess.Success.Description": "You have successfully paired your device",
+    "PairSuccess.Fail.Description": "You have failed to pair your device, please try again later",
+
+    "RegisterWarranty.Title": "REGISTER WARRANTY"
 }
