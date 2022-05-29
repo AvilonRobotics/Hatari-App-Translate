@@ -22,5 +22,7 @@
     "PairSuccess.Success.Description": "You have successfully paired your device",
     "PairSuccess.Fail.Description": "You have failed to pair your device, please try again later",
 
-    "RegisterWarranty.Title": "REGISTER WARRANTY"
+    "RegisterWarranty.Title": "REGISTER WARRANTY",
+
+    "Searching.Searching.Title": "Searching for device..."
 }

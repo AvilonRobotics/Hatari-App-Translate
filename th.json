@@ -24,6 +24,8 @@
 
     "RegisterWarranty.Title": "ลงทะเบียนการรับประกัน",
 
+    "Searching.Searching.Title": "กำลังค้นหา...",
+
     "Sign In": "ลงชื่อเข้าใช้",
     "Sign Up": "ลงทะเบียน",
     "Sign Out": "ออกจากระบบ",
@@ -189,5 +191,6 @@
     "Force Update": "บังคับอัพเดต",
     "Later": "ไว้ทีหลัง",
     "Please press button on the device.": "กรุณากดปุ่มบนเครื่องของคุณ",
-    "Cancel": "ยกเลิก"
+    "Cancel": "ยกเลิก",
+    "Enable Bluetooth Access": "เปิดการตั้งค่า"
 }
