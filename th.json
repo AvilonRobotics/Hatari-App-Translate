@@ -1,12 +1,21 @@
 {
     "DeviceControl.Settings.Location": "สถานที่",
     "DeviceControl.Settings.UserManual": "คู่มือการใช้งาน",
+
     "ChangeRoom.Title": "เปลี่ยนสถานที่",
     "ChangeRoom.LocationName.Title": "เปลี่ยนสถานที่",
     "ChangeRoom.LocationName.Placeholder": "ชื่อสถานที่",
     "ChangeRoom.Recommended": "แนะนำ",
     "ChangeRoom.YourLocation": "สถานที่ของคุณ",
     "ChangeRoom.Save": "ตกลง",
+
+    "AssignRoom.Title": "เปลี่ยนสถานที่",
+    "AssignRoom.LocationName.Title": "เปลี่ยนสถานที่",
+    "AssignRoom.LocationName.Placeholder": "ชื่อสถานที่",
+    "AssignRoom.Recommended": "แนะนำ",
+    "AssignRoom.YourLocation": "สถานที่ของคุณ",
+    "AssignRoom.Save": "ตกลง",
+    
     "Warranty.Title": "การรับประกัน",
     "Warranty.Button": "ตกลง",
 
